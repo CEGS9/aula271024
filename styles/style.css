@@ -1,0 +1,67 @@
+/* Estilos para o corpo da página */
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 0;
+    padding: 0;
+    background-color: #0d1722;
+    color: #91cbe8;
+}
+
+/* Cabeçalho */
+header {
+    background-color: #004a9f;
+    color: #fff;
+    padding: 15px;
+}
+
+nav a {
+    color: inherit;
+    text-decoration: none;
+}
+
+nav a:hover {
+    color: #004a9f;
+    text-decoration: underline;
+}
+
+section p {
+    font-size: 1.3rem;
+}
+
+.fonte {
+    font-size: 0.9em;
+}
+
+h2 {
+    text-align: center;
+    font-size: 40px;
+    color: white;
+}
+
+
+img {
+    margin: 50px 10px 10px 10px;
+    max-width: 100%;
+    height: auto;
+}
+/* Conteúdo principal */
+main {
+    padding: 20px;
+    line-height: 1.6;
+}
+
+/* Rodapé */
+footer {
+    background-color: #004a9f;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    width: 100%;
+    bottom: 0;
+}
+
+/* Estilo para imagens */
+img {
+    max-width: 100%;
+    height: auto;
+}
